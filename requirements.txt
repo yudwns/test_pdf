@@ -5,4 +5,3 @@ openai
 datetime
 PyPDF2
 pathlib
-os
