@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+numpy
+openai
+datetime
+PyPDF2
+pathlib
+os
